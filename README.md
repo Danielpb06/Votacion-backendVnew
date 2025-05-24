@@ -1,7 +1,8 @@
 ## Developers
 <p align="center">
-  Sebastián Burgos Barrera. <br>
-  Leandro Gaviria Angulo.<br>
+  Daniel Paternina Berrio<br>
+  Yoimer Ayazo Torres<br>
+  David Mendez Florez<br>
 </p>
 
 
