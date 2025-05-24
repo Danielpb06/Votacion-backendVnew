@@ -29,4 +29,4 @@ import { TipoCandidatura } from './tipo-candidatura/entities/tipo-candidatura.en
 })
 export class AppModule {}
 
-// by SANTIAN
+// by Daniel
